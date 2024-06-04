@@ -8,7 +8,7 @@
 - **Databases**: MySQL
 
 ##
-- 💞️ I’m looking for internships ...
+- 📚📖 I’m looking for internships ...
 
 ## Contact
 - **Email**: [dk488621@gmail.com]
