@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=white-titan" alt="white-titan" /></a> </p>
 
-- 🔭 Currently studying and **📚📖 looking for internships ...**
+- 🔭 Currently studying and
+**📚📖 looking for internships ...**
 
-- 🌱 I’m currently learning **Neural Network, C++ Advance and Game Development**
+- 🌱 I’m currently learning 
+**Neural Network, C++ Advance and Game Development**
 
 - 📫 How to reach me **dk488621@gmail.com**
 
