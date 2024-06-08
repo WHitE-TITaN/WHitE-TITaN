@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=white-titan&label=Profile%20views&color=0e75b6&style=flat" alt="white-titan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=white-titan" alt="white-titan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=white-titan&theme=buddhism" alt="white-titan" /></a> </p>
 
 - 🔭 Currently studying and
 **📚📖 looking for internships ...**
