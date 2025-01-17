@@ -1,4 +1,4 @@
-![nameBanner](/assets/nameBanner.gif)
+![nameBanner](/assets/userNameBanner.gif)
 
 <h2 align="center"> A Passionate Developer and Aspiring Software Engineer </h2>
 
