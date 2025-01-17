@@ -1,8 +1,8 @@
-![nameBanner](/assets/userNameBanner.gif)
+<img src="/assets/userNameBanner.gif" width="100%" alt="nameBanner" />
 
 <h2 align="center"> A Passionate Developer and Aspiring Software Engineer </h2>
 
-<h2><img src="assets/Eyes.gif" alt="Eyes" width="50"  style="vertical-align:middle;" />   About Me</h2>
+<h2><img src="assets/Eyes.gif" alt="Eyes" width="50"  style="vertical-align:middle; /    >   <span style="vertical-align:middle;"> About Me</span></h2>
 
 
 - 🌱 **Currently Learning**: Neural networks, LSTMs, Transformers, and more.
