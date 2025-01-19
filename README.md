@@ -2,9 +2,10 @@
 
 <h2 align="center"> A Passionate Developer and Aspiring Software Engineer </h2>
 
-<P><img src="assets/Eyes.gif" alt="Eyes" width="50" style="vertical-align:middle;" />   <b>ABOUT ME</b> </P>
+<p><img src="assets/Eyes.gif" alt="Eyes" width="50" style="vertical-align:middle;" />   <b>ABOUT ME</b> </p>
 
 ---
+
 
 
 - 🌱 **Currently Learning**: Neural networks, LSTMs, Transformers, and more.
@@ -20,16 +21,17 @@
   - Building an AI capable of writing essays, generating code, and more.
 
 - 💡 **Why I Code**: To create tools that empower others and turn complex ideas into reality. I aim for impactful work that bridges technology with creativity.
-
 ---
+
 
 <div style = "text-align: center;">
 <b>GITHUB STATS</b>
 <h2 align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=white-titan&theme=dark" alt="white-titan Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=white-titan" alt="white-titan Trophies" width ="680px"/>
   </a>
 </h2>
+
 </div>
 
 
@@ -56,7 +58,5 @@
     </tr>
   </table>
 </div>
-
-
 
 
