@@ -2,8 +2,10 @@
 
 <h2 align="center"> A Passionate Developer and Aspiring Software Engineer </h2>
 
-<P><img src="assets/Eyes.gif" alt="Eyes" width="50" style="vertical-align:middle;" />   <b>ABOUT ME</b> </P>
-<HR>
+<p><img src="assets/Eyes.gif" alt="Eyes" width="50" style="vertical-align:middle;" />   <b>ABOUT ME</b> </p>
+
+---
+
 
 
 - 🌱 **Currently Learning**: Neural networks, LSTMs, Transformers, and more.
@@ -21,6 +23,9 @@
 - 💡 **Why I Code**: To create tools that empower others and turn complex ideas into reality. I aim for impactful work that bridges technology with creativity.
 <hr>
 
+---
+
+
 <div style = "text-align: center;">
 <b>GITHUB STATS</b>
 <h2 align="center">
@@ -28,6 +33,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=white-titan&theme=dark" alt="white-titan Trophies" />
   </a>
 </h2>
+
 </div>
 
 
@@ -54,7 +60,5 @@
     </tr>
   </table>
 </div>
-
-
 
 
