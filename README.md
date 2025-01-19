@@ -24,14 +24,13 @@
 ---
 
 
-<div style = "text-align: center;">
-<b>GITHUB STATS</b>
-<h2 align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=white-titan" alt="white-titan Trophies" width ="680px"/>
-  </a>
-</h2>
-
+<div align= "center">
+  <b>GITHUB STATS</b>
+  <h2 align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=white-titan" alt="white-titan Trophies" width ="680px"/>
+    </a>
+  </h2>
 </div>
 
 
