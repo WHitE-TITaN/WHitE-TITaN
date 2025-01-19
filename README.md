@@ -39,19 +39,19 @@
 <div align="center">
   <b>CONNECT WITH ME !</b>
   <br>
-  <table>
+  <table style="border-collapse: collapse; border: none;">
     <tr>
-      <td align="center">
+      <td style="border: none;" align="center">
         <a href="mailto:dheerajk488621@gmail.com">
           <img src="assets/Connect.gif" alt="Connect with me" width="60" title = "mail"/>
         </a>
       </td>
-      <td align="center">
+      <td style="border: none;" align="center">
         <a href="https://www.linkedin.com/in/dheeraj-k-812025260" target="_blank">
           <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn Profile" title = "LinkidIn"/>
         </a>
       </td>
-      <td align="center">
+      <td style="border: none;" align="center">
         <a href="https://leetcode.com/u/WHITE_TITAN" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="52" height="40" alt="LeetCode Profile" title = "LeetCode"/>
         </a>
