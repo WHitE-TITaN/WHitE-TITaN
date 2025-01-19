@@ -2,8 +2,8 @@
 
 <h2 align="center"> A Passionate Developer and Aspiring Software Engineer </h2>
 
-<P><img src="assets/Eyes.gif" alt="Eyes" width="50" style="vertical-align:middle;" />   <b>ABOUT ME</b> </P>
-<HR>
+<p><img src="assets/Eyes.gif" alt="Eyes" width="50" style="vertical-align:middle;" />   <b>ABOUT ME</b> </p>
+<hr>
 
 
 - 🌱 **Currently Learning**: Neural networks, LSTMs, Transformers, and more.
