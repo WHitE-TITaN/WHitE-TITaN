@@ -1,4 +1,6 @@
-![nameBanner](/assets/userNameBanner.gif)
+<div styel="width: 100%;">
+  <img src ="assets/userNameBanner.gif" width = "100%">
+</div>
 
 <h2 align="center"> A Passionate Developer and Aspiring Software Engineer </h2>
 
@@ -41,7 +43,7 @@
     <tr>
       <td align="center">
         <a href="mailto:dheerajk488621@gmail.com">
-          <img src="assets/Connect.gif" alt="Connect with me" width="80" title = "mail"/>
+          <img src="assets/Connect.gif" alt="Connect with me" width="60" title = "mail"/>
         </a>
       </td>
       <td align="center">
