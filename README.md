@@ -47,7 +47,7 @@
         </a>
       </td>
       <td style="border: none;" align="center">
-        <a href="https://www.linkedin.com/in/dheeraj-k-812025260" target="_blank">
+        <a href="https://www.linkedin.com/in/dheeraj-kumar-812025260/" target="_blank">
           <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn Profile" title = "LinkidIn"/>
         </a>
       </td>
