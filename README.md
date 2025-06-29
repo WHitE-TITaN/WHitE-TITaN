@@ -4,11 +4,17 @@
 
 <h2 align="center"> A Passionate Developer and Aspiring Software Engineer </h2>
 
-<p><img src="assets/Eyes.gif" alt="Eyes" width="50" style="vertical-align:middle;" />   <b>ABOUT ME</b> </p>
+<div>
+  <span>
+    <img src="assets/Eyes.gif" alt="Eyes" width="55" valign="middle"/> &nbsp;&nbsp;
+  </span>
+  <span>
+    <strong align="center"> ABOUT ME</strong>
+    <img src="https://komarev.com/ghpvc/?username=white-titan&label=Profile%20views&color=0e75b6&style=flat" alt="white-titan" valign="middle" width="120"  align="right"/>
+  </span>
+</div>
 
 ---
-
-
 
 - 🌱 **Currently Learning**: Neural networks, LSTMs, Transformers, and more.
 - 💻 **Programming Languages**: C++, { Java, JavaScript, and Python Bignner }.
