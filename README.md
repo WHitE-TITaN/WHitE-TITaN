@@ -36,7 +36,7 @@
   <b>GITHUB STATS</b>
   <h2 align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=white-titan" alt="white-titan Trophies" width ="680px"/>
+      <img src="https://github-profile-trophy.vercel.app/?username=WHitE-TITaN/" alt="WHitE-TITaN/ Trophies" width ="680px"/>
     </a>
   </h2>
 </div>
@@ -65,5 +65,13 @@
     </tr>
   </table>
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WHitE-TITaN/WHitE-TITaN/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WHitE-TITaN/WHitE-TITaN/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/WHitE-TITaN/WHitE-TITaN/output/pacman-contribution-graph.svg">
+</picture>
 
 
