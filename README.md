@@ -41,6 +41,15 @@
   </h2>
 </div>
 
+<br>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WHitE-TITaN/WHitE-TITaN/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WHitE-TITaN/WHitE-TITaN/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/WHitE-TITaN/WHitE-TITaN/output/pacman-contribution-graph.svg">
+</picture>
+
 
 <div align="center">
   <b>CONNECT WITH ME !</b>
@@ -68,8 +77,4 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WHitE-TITaN/WHitE-TITaN/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WHitE-TITaN/WHitE-TITaN/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/WHitE-TITaN/WHitE-TITaN/output/pacman-contribution-graph.svg">
-</picture>
+
