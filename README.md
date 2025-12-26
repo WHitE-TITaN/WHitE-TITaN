@@ -10,7 +10,6 @@
   </span>
   <span>
     <strong align="center"> ABOUT ME</strong>
-    <img src="https://komarev.com/ghpvc/?username=white-titan&label=Profile%20views&color=0e75b6&style=flat" alt="white-titan" valign="middle" width="120"  align="right"/>
   </span>
 </div>
 
